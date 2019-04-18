@@ -1,0 +1,8 @@
+
+VERNAM XOR ENCRYPTION - A Highly Secure One-Time Pad ----------------------------
+
+DEBUG--*myData -> message : The domestric is a small, typically furry, carnivorous mammal.
+*
+
+message_encrypted is now decrypted into file: message
+
